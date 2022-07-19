@@ -4,6 +4,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/Desktop/kafka-beginners-course-main/kafka-beginners-course-main/kafka-streams-wikimedia" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Desktop/kafka-beginners-course-main/kafka-beginners-course-main/kafka-streams-wikimedia" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
@@ -12,6 +21,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/kafka-basics" />
+            <option value="$PROJECT_DIR$/kafka-consumer-opensearch" />
+            <option value="$PROJECT_DIR$/kafka-producer-wikimedia" />
           </set>
         </option>
       </GradleProjectSettings>
